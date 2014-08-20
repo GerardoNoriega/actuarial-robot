@@ -2,6 +2,6 @@
 
 With regular text
 
-*And a bullet
+* And a bullet
 
 Have a nice day
